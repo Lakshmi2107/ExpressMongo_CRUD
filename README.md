@@ -7,6 +7,9 @@ node server.js
 
 Check the API endpoints:
 GET:http://localhost:3000/person
+
 POST:http://localhost:3000/person/(Enter person details)
+
 PUT:http://localhost:3000/person/:id
+
 DELETE:http://localhost:3000/person/:id
