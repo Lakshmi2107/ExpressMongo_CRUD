@@ -1,7 +1,7 @@
 # ExpressMongo_CRUD
 This is a simple CRUD application using Expressjs and mongodb.
 
-It performs CRUD operations on the person details like name,Job description and id.
+It performs CRUD operations on the person details like name,Job description and Id.
 
 Run:
 
