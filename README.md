@@ -7,7 +7,7 @@ Run:
 
 node server.js
 
-API endpoints:
+API endpoints::
 
 GET:http://localhost:3000/person (Get all persons)
 
