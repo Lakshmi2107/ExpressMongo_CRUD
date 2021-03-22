@@ -1,5 +1,5 @@
 # ExpressMongo_CRUD
-This is a simple CRUD application using Expressjs and mongodb.
+This is a simple CRUD application using Expressjs and MongoDB.
 
 It performs CRUD operations on the person details like name,Job description and id.
 
@@ -7,7 +7,7 @@ Run:
 
 node server.js
 
-API endpoints:
+API endpoints::
 
 GET:http://localhost:3000/person (Get all persons)
 
