@@ -10,6 +10,7 @@ app.use(bodyParser.json())
 var mongoose = require('mongoose');
 
 //Configuring the database
+
 var dbconfig = require('./config/database.config.js');
 mongoose.Promise = global.Promise;
 
